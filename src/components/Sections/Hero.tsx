@@ -1,5 +1,4 @@
 'use client'
-import MobileAppSwitcher from '@/components/ui/MobileAppSwitcher';
 const heroBg = '/assets/mine-ghibili.png';
 
 const Hero = () => {
@@ -159,8 +158,6 @@ const Hero = () => {
         </button>
       </div>
       </div>
-      {/* Mobile App Switcher */}
-      <MobileAppSwitcher />
     </section>
   );
 };
