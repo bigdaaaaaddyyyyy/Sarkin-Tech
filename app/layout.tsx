@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import "./globals.css";
 import Footer from "@/components/layout/Footer";
 import GlobalShell from "@/components/GlobalShell";
+import FloatingGDGoCButton from "@/components/FloatingGDGoCButton";
 
 export const metadata: Metadata = {
   title: "Just Jamil",
@@ -29,6 +30,7 @@ export default function RootLayout({
           <GlobalShell>{children}</GlobalShell>
         </main>
         <Footer />
+        <FloatingGDGoCButton />
       </body>
     </html>
   );
