@@ -7,7 +7,7 @@ export default function ArchivePage() {
         <h1 className="text-4xl font-bold text-primary mb-4">My Projects</h1>
         <p className="text-muted-foreground text-lg leading-relaxed">
           This is a placeholder projects page. Add your completed work here to showcase what
-          you’ve built.
+          you've built.
         </p>
       </div>
     </section>
