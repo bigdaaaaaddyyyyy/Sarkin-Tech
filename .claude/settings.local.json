@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git ls-tree *)",
+      "Bash(echo '=== month-__TRACKED_VAR__.md ===')",
+      "Bash(cat c:/Users/admin/Desktop/Sarkin-Tech/content/gdgoc-plan/months/month-__TRACKED_VAR__.md)",
+      "Bash(echo)"
+    ]
+  }
+}
