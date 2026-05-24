@@ -1,0 +1,1 @@
+src/app/ directory was archived and removed to clarify project structure. Root-level app/ is now the only Next.js app router.
