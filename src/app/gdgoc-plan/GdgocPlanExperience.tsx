@@ -354,6 +354,12 @@ export default function GdgocPlanExperience() {
               >
                 Partnership map
               </a>
+              <Link
+                href="/gdgoc-plan/team"
+                className="inline-flex items-center justify-center gap-2 rounded-full border border-slate-300 bg-white/80 px-6 py-3 text-sm font-bold text-slate-800 backdrop-blur transition hover:-translate-y-0.5 hover:border-blue-300 hover:text-blue-700"
+              >
+                <Users className="h-4 w-4" /> Team list
+              </Link>
             </div>
           </div>
 
